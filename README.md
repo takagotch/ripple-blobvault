@@ -7,6 +7,14 @@ https://github.com/ripple/ripple-blobvault
 {
   status : 'ok'
 }
+
+{
+  "remember_me": true,
+  "enabled" : true,
+  "phone": "<phone number>",
+  "country_code" : "<country_code>",
+  "via" : "sms"
+}
 ```
 
 ```
